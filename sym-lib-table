@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "uaefi")(type "KiCad")(uri "C:/Users/sales/Downloads/hellen-one-master/hellen-one-master/kicad/modules/hellen1-uaefi/uaefi.kicad_sym")(options "")(descr ""))
+)
